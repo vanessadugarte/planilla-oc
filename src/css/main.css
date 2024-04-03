@@ -1,0 +1,28 @@
+.rowFields{
+    display:flex !important;
+    flex-direction: row !important;
+}
+
+.titleContainer{
+    display:flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.formContainer{
+    display:flex;
+    justify-content: center;
+}
+
+/*.MuiGrid2-container MuiGrid2-direction-xs-row test css-1jrrna4-MuiGrid2-root*/
+
+.MuiGrid2-root{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.center{
+    display:flex !important;
+    justify-content: center !important;
+}
